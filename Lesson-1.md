@@ -161,7 +161,7 @@ clean + er => cleaner
 
 - **Noun** - is a part of the speeech which answers the questions: What? or Who? (indicates a thing)
 - **Verb** - is a part of the speech which answers the question: what to do? (indicates an action) -
-- **Agjective** - is a part of the speech which answers the question: any word which descripbes a noun (shows an attribute of a noun).
+- **Adjective** - is a part of the speech which answers the question: any word which describes a noun (shows an attribute of a noun).
 - **Adverb** -is a part of the speech which answers the question which modifies a meaning of the verb, an adjective or an adverb, answers the question: **How?** - he drives quickly (modifies verb **Drive**), He really likes to drink cofee in the morning (modifies verb - **Like**), She is often late to work. I am very tired (modifies adjective - **Tired**), He speaks _extremely_ _fast_ (fast - is an adverb which desribes a verb - Speak, and extremely is also an adverb which describes an adverb - fast)
 - **Pronoun** - is to replace a noun (I told John that I couldn't help **him**), the most common pronouns: I, you, he, she,it, we, they, what, that, this, these, those
 - **Preposition** - the most common are: in, on, of, at, to, under, over, before, after
